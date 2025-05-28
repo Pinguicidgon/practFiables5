@@ -14,4 +14,5 @@ Simulado correctamente en Vivado.
 
 ## Autores
 Raúl Cid – Universidad Antonio de Nebrija
+
 Emilio José Román Rosales – Universidad Antonio de Nebrija
