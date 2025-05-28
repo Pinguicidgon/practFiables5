@@ -13,6 +13,6 @@ Este proyecto implementa un sumador binario de 8 bits mediante arquitectura jer�
 Simulado correctamente en Vivado.
 
 ## Autores
-Raúl Cid – Universidad Antonio de Nebrija
+Raúl Cid González – Universidad Antonio de Nebrija
 
 Emilio José Román Rosales – Universidad Antonio de Nebrija
